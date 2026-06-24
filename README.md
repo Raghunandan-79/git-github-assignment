@@ -18,6 +18,9 @@ I am learning how to track code using Git and push code to GitHub.
 - git branch -M main
 - git push -u origin main
 - git push
+- git clone
+- git fetch
+- git pull
 
 ## Important Line
 
